@@ -1,5 +1,5 @@
-com/example/esaver/MainActivity.java
- com.example.esaver.MainActivity
+com/example/esaver/ui/notifications/NotificationsViewModel.java
+ com.example.esaver.ui.notifications.NotificationsViewModel
 com/example/esaver/BuildConfig.java
  com.example.esaver.BuildConfig
 com/example/esaver/ui/notifications/NotificationsFragment.java
@@ -12,5 +12,5 @@ com/example/esaver/ui/home/HomeViewModel.java
  com.example.esaver.ui.home.HomeViewModel
 com/example/esaver/ui/home/HomeFragment.java
  com.example.esaver.ui.home.HomeFragment
-com/example/esaver/ui/notifications/NotificationsViewModel.java
- com.example.esaver.ui.notifications.NotificationsViewModel
+com/example/esaver/MainActivity.java
+ com.example.esaver.MainActivity
