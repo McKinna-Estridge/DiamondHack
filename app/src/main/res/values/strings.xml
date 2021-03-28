@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">eSaver</string>
+    <string name="title_estimate">Estimate</string>
+    <string name="title_year">Year</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_form">Form</string>
+    <string name="title_information">Information</string>
 </resources>

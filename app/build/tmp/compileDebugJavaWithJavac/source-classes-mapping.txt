@@ -1,16 +1,24 @@
-com/example/esaver/ui/notifications/NotificationsViewModel.java
- com.example.esaver.ui.notifications.NotificationsViewModel
-com/example/esaver/BuildConfig.java
- com.example.esaver.BuildConfig
-com/example/esaver/ui/notifications/NotificationsFragment.java
- com.example.esaver.ui.notifications.NotificationsFragment
-com/example/esaver/ui/dashboard/DashboardFragment.java
- com.example.esaver.ui.dashboard.DashboardFragment
-com/example/esaver/ui/dashboard/DashboardViewModel.java
- com.example.esaver.ui.dashboard.DashboardViewModel
-com/example/esaver/ui/home/HomeViewModel.java
- com.example.esaver.ui.home.HomeViewModel
-com/example/esaver/ui/home/HomeFragment.java
- com.example.esaver.ui.home.HomeFragment
 com/example/esaver/MainActivity.java
  com.example.esaver.MainActivity
+com/example/esaver/ui/estimate/EstimateFragment.java
+ com.example.esaver.ui.estimate.EstimateFragment
+com/example/esaver/ui/form/FormFragment.java
+ com.example.esaver.ui.form.FormFragment
+com/example/esaver/BuildConfig.java
+ com.example.esaver.BuildConfig
+com/example/esaver/ui/year/YearFragment.java
+ com.example.esaver.ui.year.YearFragment
+com/example/esaver/ui/estimate/EstimateViewModel.java
+ com.example.esaver.ui.estimate.EstimateViewModel
+com/example/esaver/ui/information/InformationFragment.java
+ com.example.esaver.ui.information.InformationFragment
+com/example/esaver/ui/home/HomeViewModel.java
+ com.example.esaver.ui.home.HomeViewModel
+com/example/esaver/ui/form/FormViewModel.java
+ com.example.esaver.ui.form.FormViewModel
+com/example/esaver/ui/home/HomeFragment.java
+ com.example.esaver.ui.home.HomeFragment
+com/example/esaver/ui/year/YearViewModel.java
+ com.example.esaver.ui.year.YearViewModel
+com/example/esaver/ui/information/InformationViewModel.java
+ com.example.esaver.ui.information.InformationViewModel
