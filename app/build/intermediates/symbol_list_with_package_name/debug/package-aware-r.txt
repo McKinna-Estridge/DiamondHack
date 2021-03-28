@@ -1664,6 +1664,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable account_circle
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -1919,6 +1920,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id info
 id invisible
 id inward
@@ -2412,11 +2414,14 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string profile_icon_description
 string search_menu_title
 string status_bar_notification_info_overflow
-string title_dashboard
+string title_estimate
+string title_form
 string title_home
-string title_notifications
+string title_information
+string title_year
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

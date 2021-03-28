@@ -8,30 +8,30 @@
     <fragment
         android:id="@+id/navigation_estimate"
         android:name="com.example.esaver.ui.estimate.EstimateFragment"
-        android:label="Estimate"
+        android:label="Estimate CO2 Emissions"
         tools:layout="@layout/fragment_estimate" />
 
     <fragment
         android:id="@+id/navigation_year"
         android:name="com.example.esaver.ui.year.YearFragment"
-        android:label="Year"
+        android:label="Annual Log"
         tools:layout="@layout/fragment_year" />
 
     <fragment
         android:id="@+id/navigation_home"
         android:name="com.example.esaver.ui.home.HomeFragment"
-        android:label="Home"
+        android:label="Home Page"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_form"
         android:name="com.example.esaver.ui.form.FormFragment"
-        android:label="Form"
+        android:label="Tax Form Document"
         tools:layout="@layout/fragment_form" />
 
     <fragment
         android:id="@+id/navigation_information"
         android:name="com.example.esaver.ui.information.InformationFragment"
-        android:label="Information"
+        android:label="Information Page"
         tools:layout="@layout/fragment_information" />
 </navigation>

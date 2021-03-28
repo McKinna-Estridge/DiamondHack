@@ -10,8 +10,8 @@ com/example/esaver/ui/year/YearFragment.java
  com.example.esaver.ui.year.YearFragment
 com/example/esaver/ui/estimate/EstimateViewModel.java
  com.example.esaver.ui.estimate.EstimateViewModel
-com/example/esaver/ui/information/InformationFragment.java
- com.example.esaver.ui.information.InformationFragment
+com/example/esaver/ui/information/InformationViewModel.java
+ com.example.esaver.ui.information.InformationViewModel
 com/example/esaver/ui/home/HomeViewModel.java
  com.example.esaver.ui.home.HomeViewModel
 com/example/esaver/ui/form/FormViewModel.java
@@ -20,5 +20,5 @@ com/example/esaver/ui/home/HomeFragment.java
  com.example.esaver.ui.home.HomeFragment
 com/example/esaver/ui/year/YearViewModel.java
  com.example.esaver.ui.year.YearViewModel
-com/example/esaver/ui/information/InformationViewModel.java
- com.example.esaver.ui.information.InformationViewModel
+com/example/esaver/ui/information/InformationFragment.java
+ com.example.esaver.ui.information.InformationFragment
